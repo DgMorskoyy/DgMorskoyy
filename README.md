@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DgMorskoyy
-- 👀 I’m a estatistic student who wants to became a data scientist. 
+- 👀 I’m a estatistic at UFF (universidade Federal Fluminense) student who wants to became a data scientist. 
 - 🌱 I’m currently learning R and Python
 
 
